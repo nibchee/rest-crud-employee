@@ -1,6 +1,5 @@
 package com.geekynib.springboot.cruddemo.rest;
 
-import com.geekynib.springboot.cruddemo.dao.EmployeeDAO;
 import com.geekynib.springboot.cruddemo.entity.Employee;
 import com.geekynib.springboot.cruddemo.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
